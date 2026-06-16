@@ -1,7 +1,8 @@
 {
   "languages": [
     { "code": "pl", "name": "Polski", "dir": "ltr", "defaultTranslation": "UBG", "moduleSizeKB": 120 },
-    { "code": "en", "name": "English", "dir": "ltr", "defaultTranslation": "WEB", "moduleSizeKB": 120 }
+    { "code": "en", "name": "English", "dir": "ltr", "defaultTranslation": "WEB", "moduleSizeKB": 120 },
+    { "code": "es", "name": "Español", "dir": "ltr", "defaultTranslation": "RV1909", "moduleSizeKB": 120 }
   ],
   "default": "pl"
 }
