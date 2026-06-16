@@ -166,11 +166,11 @@
               "ref": "Mt 28,19"
             }
           ],
-          "comment": "Chrzest jest „w imię (lp) Ojca i Syna, i Ducha Świętego\". Jedno imię, trzy Osoby - fundament wiary w Trójcę: jeden Bóg w trzech Osobach.",
+          "comment": "Chrzest jest „w imię (liczba pojedyncza) Ojca i Syna, i Ducha Świętego\". Jedno imię, trzy Osoby - fundament wiary w Trójcę: jeden Bóg w trzech Osobach.",
           "questions": [
             {
               "id": "q6",
-              "text": "Dlaczego ważne, że tekst mówi „w imię\" (lp), a nie „w imiona\" trzech osobnych bogów?"
+              "text": "Dlaczego ważne, że tekst mówi „w imię\" (liczba pojedyncza), a nie „w imiona\" trzech osobnych bogów?"
             }
           ]
         },
@@ -434,7 +434,7 @@
           "level": "advanced",
           "id": "n7",
           "noteType": "worship",
-          "label": "„owoc\" (lp) Ducha, a nie lista osiągnięć",
+          "label": "„owoc\" (liczba pojedyncza) Ducha, a nie lista osiągnięć",
           "content": "W Ga 5,22 „owoc\" jest w liczbie pojedynczej, choć cech jest wiele - to jeden, spójny charakter Chrystusa kształtowany przez Ducha, nie zestaw oddzielnych „sprawności\". Różni się to od „darów Ducha\" (1 Kor 12), które są zróżnicowane i rozdzielane do służby. Owoc świadczy o relacji i przemianie serca; dary służą wspólnocie. Owocu się nie „wytwarza\" - wydaje go życie trwające w Duchu (por. J 15,4-5).",
           "questions": [
             {
@@ -571,7 +571,7 @@
           "id": "n9",
           "noteType": "background",
           "label": "twoje ciało świątynią Ducha (1 Kor 6,19)",
-          "content": "Paweł nazywa ciało wierzącego „świątynią Ducha Świętego\". W ST chwała Boga mieszkała w świątyni jerozolimskiej; teraz Duch zamieszkuje w człowieku. To dwie konsekwencje: niezwykła godność (Bóg wybrał mnie na swoje mieszkanie) i odpowiedzialność (jak traktuję ciało i życie, które stało się Jego przybytkiem). Napełnienie Duchem nie jest więc chwilowym „doładowaniem\", lecz stałym zamieszkiwaniem Boga w codzienności. ---",
+          "content": "Paweł nazywa ciało wierzącego „świątynią Ducha Świętego\". W ST chwała Boga mieszkała w świątyni jerozolimskiej; teraz Duch zamieszkuje w człowieku. To dwie konsekwencje: niezwykła godność (Bóg wybrał mnie na swoje mieszkanie) i odpowiedzialność (jak traktuję ciało i życie, które stało się Jego przybytkiem). Napełnienie Duchem nie jest więc chwilowym „doładowaniem\", lecz stałym zamieszkiwaniem Boga w codzienności.",
           "questions": [
             {
               "id": "q23",

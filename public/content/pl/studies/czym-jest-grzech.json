@@ -70,7 +70,7 @@
               "ref": "Iz 53,6"
             }
           ],
-          "comment": "Grzech (lp) opisany jest jako kierunek: „każdy z nas zwrócił się ku własnej drodze\". To samo-centryczność, odwrócenie się od Boga ku sobie.",
+          "comment": "Grzech (liczba pojedyncza) opisany jest jako kierunek: „każdy z nas zwrócił się ku własnej drodze\". To samo-centryczność, odwrócenie się od Boga ku sobie.",
           "questions": [
             {
               "id": "q3",
@@ -102,7 +102,7 @@
           "id": "n1",
           "noteType": "term",
           "label": "„grzech\" jako chybienie celu",
-          "content": "Najczęstsze biblijne słowo na grzech (hebr. *chatta't*, gr. *hamartia*) niesie obraz „chybienia celu, minięcia się z celem\". Celem człowieka jest życie w zaufaniu i relacji z Bogiem (por. J 16,9); grzech (lp) to rozminięcie się z tym celem - zerwana więź, z której dopiero wynikają poszczególne grzechy (lm). Dlatego Ewangelia leczy najpierw relację, a nie tylko koryguje zachowania. ---",
+          "content": "Najczęstsze biblijne słowo na grzech (hebr. *chatta't*, gr. *hamartia*) niesie obraz „chybienia celu, minięcia się z celem\". Celem człowieka jest życie w zaufaniu i relacji z Bogiem (por. J 16,9); grzech (liczba pojedyncza) to rozminięcie się z tym celem - zerwana więź, z której dopiero wynikają poszczególne grzechy (liczba mnoga). Dlatego Ewangelia leczy najpierw relację, a nie tylko koryguje zachowania.",
           "original": [
             {
               "lang": "grc",
@@ -121,7 +121,7 @@
     },
     {
       "id": "s2",
-      "heading": "Grzech (lp) a grzechy (lm): korzeń i owoce",
+      "heading": "Grzech (liczba pojedyncza) a grzechy (liczba mnoga): korzeń i owoce",
       "items": [
         {
           "type": "passage",
@@ -133,7 +133,7 @@
               "ref": "Mk 7,21-23"
             }
           ],
-          "comment": "Złe czyny („grzechy\", lm) wypływają „z wnętrza, z serca\". Są objawami choroby, nie samą chorobą - owocem zepsutego korzenia.",
+          "comment": "Złe czyny („grzechy\", liczba mnoga) wypływają „z wnętrza, z serca\". Są objawami choroby, nie samą chorobą - owocem zepsutego korzenia.",
           "questions": [
             {
               "id": "q5",
@@ -235,7 +235,7 @@
           "id": "n4",
           "noteType": "term",
           "label": "„odkupienie\" jako wykup z niewoli (Rz 3,24)",
-          "content": "Zaraz po „wszyscy zgrzeszyli\" pada rozwiązanie: usprawiedliwieni „przez odkupienie w Chrystusie\". Greckie *apolytrōsis* to obraz z rynku niewolników i jeńców: wykupienie kogoś na wolność za zapłaconą cenę. Grzech nie jest więc tylko „długiem na koncie\", lecz niewolą, z której sami nie wyjdziemy - potrzebny jest Ktoś, kto zapłaci wykup i wyprowadzi nas na wolność. ---",
+          "content": "Zaraz po „wszyscy zgrzeszyli\" pada rozwiązanie: usprawiedliwieni „przez odkupienie w Chrystusie\". Greckie *apolytrōsis* to obraz z rynku niewolników i jeńców: wykupienie kogoś na wolność za zapłaconą cenę. Grzech nie jest więc tylko „długiem na koncie\", lecz niewolą, z której sami nie wyjdziemy - potrzebny jest Ktoś, kto zapłaci wykup i wyprowadzi nas na wolność.",
           "original": [
             {
               "lang": "grc",
