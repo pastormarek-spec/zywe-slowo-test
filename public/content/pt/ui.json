@@ -1,0 +1,65 @@
+{
+  "appName": "Estudo Bíblico",
+  "tagline": "Leitor de estudos bíblicos",
+  "nav": { "home": "Início", "topics": "Lista de temas", "about": "Sobre", "back": "Voltar", "search": "Buscar" },
+  "home": {
+    "projectTitle": "Palavra Viva",
+    "projectTagline": "o caminho para a casa do Pai",
+    "todayTitle": "Para hoje",
+    "topicsCount": "temas",
+    "playVideo": "Reproduzir vídeo",
+    "categoriesTitle": "Categorias",
+    "basicTitle": "Ensinos bíblicos básicos",
+    "basic_systematic": "Estudo sistemático",
+    "basic_practical": "Estudo prático",
+    "series": "Séries de estudo",
+    "topic": "Temas bíblicos diversos",
+    "searchPlaceholder": "Buscar: tema, palavra",
+    "language": "Idioma",
+    "downloadOffline": "Baixar para uso offline",
+    "downloading": "Baixando…",
+    "offlineReady": "Disponível offline"
+  },
+  "reader": {
+    "levels": "Nível",
+    "base": "Básico",
+    "extended": "Ampliado",
+    "advanced": "PRO",
+    "application": "Resumo",
+    "challenge": "Desafio",
+    "print": "Imprimir / PDF",
+    "backToList": "Lista de temas",
+    "showVerse": "Mostrar texto",
+    "hideVerse": "Ocultar texto",
+    "minutes": "min",
+    "question": "Pergunta",
+    "original": "Forma original",
+    "noteTypes": {
+      "syntax": "Sintaxe", "verb": "Verbo", "background": "Contexto",
+      "textual": "Crítica textual", "term": "Termo", "variant": "Variante",
+      "worship": "Adoração", "other": "Nota"
+    }
+  },
+  "search": { "title": "Resultados da busca", "noResults": "Nenhum resultado.", "for": "para" },
+  "category": { "empty": "Não há estudos nesta categoria." },
+  "about": {
+    "title": "Sobre",
+    "body": "Um leitor simples de estudos bíblicos prontos. Sem contas, sem login, sem rastreamento. Funciona offline após baixar o módulo de idioma.",
+    "publisher": "Autor: Marek Micyk",
+    "privacy": "O aplicativo não coleta dados do usuário."
+  },
+  "contact": {
+    "title": "Contato",
+    "intro": "Tem uma pergunta ou quer conversar? Escreva para nós.",
+    "name": "Nome",
+    "email": "Seu e-mail (para resposta)",
+    "message": "Sua mensagem",
+    "human": "Sou uma pessoa",
+    "send": "Enviar mensagem",
+    "subject": "Contato - Palavra Viva",
+    "hint": "A mensagem abrirá no seu programa de e-mail.",
+    "who": "Quem somos?",
+    "whoUrl": "https://www.adventistas.org/pt/"
+  },
+  "common": { "loading": "Carregando…", "placeholderBible": "O texto do versículo aparecerá ao conectar uma tradução." }
+}

@@ -1,0 +1,65 @@
+{
+  "appName": "Bibelstudium",
+  "tagline": "Leser für Bibelstudien",
+  "nav": { "home": "Start", "topics": "Themenliste", "about": "Über", "back": "Zurück", "search": "Suchen" },
+  "home": {
+    "projectTitle": "Lebendiges Wort",
+    "projectTagline": "der Weg zum Haus des Vaters",
+    "todayTitle": "Für heute",
+    "topicsCount": "Themen",
+    "playVideo": "Video abspielen",
+    "categoriesTitle": "Kategorien",
+    "basicTitle": "Grundlegende biblische Lehren",
+    "basic_systematic": "Systematisches Studium",
+    "basic_practical": "Praktisches Studium",
+    "series": "Studienreihen",
+    "topic": "Verschiedene biblische Themen",
+    "searchPlaceholder": "Suche: Thema, Wort",
+    "language": "Sprache",
+    "downloadOffline": "Offline herunterladen",
+    "downloading": "Wird heruntergeladen…",
+    "offlineReady": "Offline verfügbar"
+  },
+  "reader": {
+    "levels": "Stufe",
+    "base": "Basis",
+    "extended": "Erweitert",
+    "advanced": "PRO",
+    "application": "Zusammenfassung",
+    "challenge": "Herausforderung",
+    "print": "Drucken / PDF",
+    "backToList": "Themenliste",
+    "showVerse": "Text anzeigen",
+    "hideVerse": "Text ausblenden",
+    "minutes": "Min",
+    "question": "Frage",
+    "original": "Originalform",
+    "noteTypes": {
+      "syntax": "Syntax", "verb": "Verb", "background": "Hintergrund",
+      "textual": "Textkritik", "term": "Begriff", "variant": "Variante",
+      "worship": "Anbetung", "other": "Notiz"
+    }
+  },
+  "search": { "title": "Suchergebnisse", "noResults": "Keine Ergebnisse.", "for": "für" },
+  "category": { "empty": "Keine Studien in dieser Kategorie." },
+  "about": {
+    "title": "Über",
+    "body": "Ein schlichter Leser für fertige Bibelstudien. Keine Konten, keine Anmeldung, kein Tracking. Funktioniert offline nach dem Herunterladen des Sprachmoduls.",
+    "publisher": "Autor: Marek Micyk",
+    "privacy": "Die App sammelt keine Nutzerdaten."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Hast du eine Frage oder möchtest du reden? Schreib uns.",
+    "name": "Name",
+    "email": "Deine E-Mail (für die Antwort)",
+    "message": "Deine Nachricht",
+    "human": "Ich bin ein Mensch",
+    "send": "Nachricht senden",
+    "subject": "Kontakt - Lebendiges Wort",
+    "hint": "Die Nachricht wird in deinem E-Mail-Programm geöffnet.",
+    "who": "Wer sind wir?",
+    "whoUrl": "https://www.adventisten.de/"
+  },
+  "common": { "loading": "Wird geladen…", "placeholderBible": "Der Verstext erscheint, sobald eine Übersetzung verbunden ist." }
+}
