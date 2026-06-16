@@ -7,6 +7,11 @@
 #
 set -euo pipefail
 
+# WAZNE (Git Bash/MSYS): bez tego VITE_BASE="/zywe-slowo-test/" zostaje zamienione
+# na sciezke systemowa (C:/Program Files/Git/...) i build ma zle sciezki do zasobow.
+export MSYS_NO_PATHCONV=1
+export MSYS2_ARG_CONV_EXCL='*'
+
 REPO_URL="https://github.com/pastormarek-spec/zywe-slowo-test.git"
 BASE="/zywe-slowo-test/"
 
