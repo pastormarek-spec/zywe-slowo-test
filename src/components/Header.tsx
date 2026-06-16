@@ -1,13 +1,18 @@
-import { useState, type FormEvent } from 'react'
+import { useEffect, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { downloadModule } from '../content'
+import { downloadModule, loadLangs } from '../content'
+import type { LangMeta } from '../types'
 
 export function Header() {
   const { lang, t } = useI18n()
   const nav = useNavigate()
   const [q, setQ] = useState('')
   const [dl, setDl] = useState<'idle' | 'busy' | 'done'>('idle')
+  const [langs, setLangs] = useState<LangMeta[]>([])
+
+  // przełącznik języków sterowany danymi: dodanie wpisu w langs.json wystarczy
+  useEffect(() => { loadLangs().then((l) => setLangs(l.languages)).catch(() => {}) }, [])
 
   function onSearch(e: FormEvent) {
     e.preventDefault()
@@ -52,8 +57,11 @@ export function Header() {
             <span aria-hidden>{dl === 'done' ? '✓' : '↓'}</span>
             <span className="hidden sm:inline">{dlLabel}</span>
           </button>
-          <Link to={`/pl`} className={lang === 'pl' ? 'font-semibold' : 'text-slate-500'}>PL</Link>
-          <Link to={`/en`} className={lang === 'en' ? 'font-semibold' : 'text-slate-500'}>EN</Link>
+          {langs.map((l) => (
+            <Link key={l.code} to={`/${l.code}`} className={lang === l.code ? 'font-semibold' : 'text-slate-500'}>
+              {l.code.toUpperCase()}
+            </Link>
+          ))}
           <Link to={`/${lang}/about`} className="text-slate-500 hover:text-brand" title={t('nav.about')}>?</Link>
         </nav>
       </div>
