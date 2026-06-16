@@ -117,6 +117,12 @@ def main():
     verses = {k: v for k, v in existing.items() if v}
     to_fetch = [o for o in osis_list if not verses.get(o)]
     print(f"Do pobrania: {len(to_fetch)} / {len(osis_list)} (z cache: {len(osis_list) - len(to_fetch)})")
+    os.makedirs(d, exist_ok=True)
+
+    def save():
+        out = {'translation': translation, 'name': name, 'lang': lang, 'license': lic, 'verses': verses}
+        json.dump(out, open(outp, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
     missing = []
     for i, osis in enumerate(to_fetch, 1):
         txt = fetch_with_retry(osis, module)
@@ -125,10 +131,10 @@ def main():
         else:
             missing.append(osis)
         print(f"[{i}/{len(to_fetch)}] {osis} {'OK' if txt else 'BRAK'}")
+        if i % 25 == 0:
+            save()  # checkpoint - odporne na przerwanie, wznawialne (przyrostowo)
         time.sleep(0.25)
-    out = {'translation': translation, 'name': name, 'lang': lang, 'license': lic, 'verses': verses}
-    os.makedirs(d, exist_ok=True)
-    json.dump(out, open(outp, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    save()
     print(f"\nZapisano {outp}: {len(verses)} wersetów, brakuje {len(missing)}")
     if missing:
         print('BRAKI:', missing)

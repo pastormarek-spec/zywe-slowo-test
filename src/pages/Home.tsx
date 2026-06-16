@@ -84,7 +84,7 @@ export function Home() {
       <ContactForm />
 
       <p className="no-print mt-8 text-center text-xs text-slate-400">
-        <a href="https://adwent.pl" target="_blank" rel="noopener noreferrer" className="hover:text-brand-light">
+        <a href={t('contact.whoUrl', 'https://adwent.pl')} target="_blank" rel="noopener noreferrer" className="hover:text-brand-light">
           {t('contact.who', 'Kim jesteśmy?')}
         </a>
         <span className="mx-2" aria-hidden>·</span>

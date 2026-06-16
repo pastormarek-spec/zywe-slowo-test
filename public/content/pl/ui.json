@@ -58,7 +58,8 @@
     "send": "Wyślij wiadomość",
     "subject": "Kontakt - Żywe Słowo",
     "hint": "Wiadomość otworzy się w Twoim programie pocztowym.",
-    "who": "Kim jesteśmy?"
+    "who": "Kim jesteśmy?",
+    "whoUrl": "https://adwent.pl"
   },
   "common": { "loading": "Wczytywanie…", "placeholderBible": "Tekst wersetu pojawi się po podłączeniu przekładu." }
 }
