@@ -1,0 +1,7 @@
+{
+  "languages": [
+    { "code": "pl", "name": "Polski", "dir": "ltr", "defaultTranslation": "UBG", "moduleSizeKB": 120 },
+    { "code": "en", "name": "English", "dir": "ltr", "defaultTranslation": "WEB", "moduleSizeKB": 120 }
+  ],
+  "default": "pl"
+}

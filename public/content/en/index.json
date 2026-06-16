@@ -1,0 +1,76 @@
+{
+  "lang": "en",
+  "featured": {
+    "youtube": {
+      "playlistId": "PLv-67p_8jNMwIIjwcgT8yTWT0_AQG2JRp",
+      "videoIds": [
+        "z46S97U9-FU",
+        "D5nYaD2tIog",
+        "oLobbSuezvQ",
+        "O8z5VyhJK6M",
+        "bvrUC-uvGRE"
+      ]
+    }
+  },
+  "series": [
+    {
+      "id": "poznaj-przyjaciela",
+      "title": "Meet the Friend",
+      "order": 1
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "Life in the Covenant and Service",
+      "order": 2
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "Prophecy and the Hope of the End",
+      "order": 3
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "Life and Emotions",
+      "order": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "does-anyone-really-care-about-me",
+      "title": "Does anyone really care about me? - God the Creator who is love",
+      "category": "basic_practical",
+      "seriesId": "poznaj-przyjaciela",
+      "order": 1,
+      "summary": "A first encounter with the God who knows me personally, made me out of love, and cares about my everyday life - the starting point for a relationship, not religion.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "God",
+        "love",
+        "creation",
+        "care",
+        "identity"
+      ],
+      "refs": [
+        "Ps 139:1-4",
+        "Ps 139:13-16",
+        "Ps 8:4-6",
+        "1 John 4:8-10",
+        "John 3:16",
+        "Rom 5:8",
+        "Jer 31:3",
+        "Luke 15:20",
+        "Matt 6:26",
+        "Matt 6:31-33",
+        "1 Pet 5:7",
+        "Luke 12:6-7",
+        "Gen 1:27",
+        "Isa 43:1",
+        "Acts 17:24-28",
+        "1 John 3:1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "appName": "Studium Biblii",
+  "tagline": "Czytnik studiów biblijnych",
+  "nav": { "home": "Start", "topics": "Lista tematów", "about": "O aplikacji", "back": "Wstecz", "search": "Szukaj" },
+  "home": {
+    "projectTitle": "Żywe Słowo",
+    "projectTagline": "droga do domu Ojca",
+    "todayTitle": "Na dziś",
+    "topicsCount": "tematów",
+    "playVideo": "Odtwórz wideo",
+    "categoriesTitle": "Kategorie",
+    "basicTitle": "Podstawowe nauki Biblii",
+    "basic_systematic": "Studium systematyczne",
+    "basic_practical": "Studium praktyczne",
+    "series": "Serie do studiowania",
+    "topic": "Różne tematy biblijne",
+    "searchPlaceholder": "Szukaj: temat, słowo",
+    "language": "Język",
+    "downloadOffline": "Pobierz do trybu offline",
+    "downloading": "Pobieranie…",
+    "offlineReady": "Dostępne offline"
+  },
+  "reader": {
+    "levels": "Poziom",
+    "base": "Podstawowa",
+    "extended": "Rozszerzona",
+    "advanced": "PRO",
+    "application": "Podsumowanie",
+    "challenge": "Wyzwanie",
+    "print": "Drukuj / PDF",
+    "backToList": "Lista tematów",
+    "showVerse": "Pokaż tekst",
+    "hideVerse": "Ukryj tekst",
+    "minutes": "min",
+    "question": "Pytanie",
+    "original": "Forma oryginalna",
+    "noteTypes": {
+      "syntax": "Składnia", "verb": "Czasownik", "background": "Tło",
+      "textual": "Krytyka tekstu", "term": "Termin", "variant": "Wariant",
+      "worship": "Uwielbienie", "other": "Nota"
+    }
+  },
+  "search": { "title": "Wyniki wyszukiwania", "noResults": "Brak wyników.", "for": "dla" },
+  "category": { "empty": "Brak studiów w tej kategorii." },
+  "about": {
+    "title": "O aplikacji",
+    "body": "Czysty czytnik gotowych studiów biblijnych. Bez kont, bez logowania, bez śledzenia. Działa offline po pobraniu modułu językowego.",
+    "publisher": "Autor: Marek Micyk",
+    "privacy": "Aplikacja nie zbiera danych o użytkowniku."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Masz pytanie albo chcesz porozmawiać? Napisz do nas.",
+    "name": "Imię",
+    "email": "Twój e-mail (do odpowiedzi)",
+    "message": "Twoja wiadomość",
+    "human": "Jestem człowiekiem",
+    "send": "Wyślij wiadomość",
+    "subject": "Kontakt - Żywe Słowo",
+    "hint": "Wiadomość otworzy się w Twoim programie pocztowym.",
+    "who": "Kim jesteśmy?"
+  },
+  "common": { "loading": "Wczytywanie…", "placeholderBible": "Tekst wersetu pojawi się po podłączeniu przekładu." }
+}

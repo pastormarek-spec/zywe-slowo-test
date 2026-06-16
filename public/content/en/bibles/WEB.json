@@ -1,0 +1,24 @@
+{
+  "translation": "WEB",
+  "name": "World English Bible",
+  "lang": "en",
+  "license": "Public Domain — World English Bible; tekst via API Bible SuperSearch (web).",
+  "verses": {
+    "1John.3.1": "Behold, how great a love the Father has bestowed on us, that we should be called children of God! For this cause the world doesn't know us, because it didn't know him.",
+    "1John.4.8-10": "(8) He who doesn't love doesn't know God, for God is love. (9) By this God's love was revealed in us, that God has sent his one and only Son into the world that we might live through him. (10) In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+    "1Pet.5.7": "casting all your worries on him, because he cares for you.",
+    "Acts.17.24-28": "(24) The God who made the world and all things in it, he, being Lord of heaven and earth, doesn't dwell in temples made with hands, (25) neither is he served by men's hands, as though he needed anything, seeing he himself gives to all life and breath, and all things. (26) He made from one blood every nation of men to dwell on all the surface of the earth, having determined appointed seasons, and the boundaries of their dwellings, (27) that they should seek the Lord, if perhaps they might reach out for him and find him, though he is not far from each one of us. (28) 'For in him we live, and move, and have our being.' As some of your own poets have said, 'For we are also his offspring.'",
+    "Gen.1.27": "God created man in his own image. In God's image he created him; male and female he created them.",
+    "Isa.43.1": "But now thus says Yahweh who created you, Jacob, and he who formed you, Israel: \"Don't be afraid, for I have redeemed you. I have called you by your name. You are mine.",
+    "Jer.31.3": "Yahweh appeared of old to me, saying, Yes, I have loved you with an everlasting love: therefore with loving kindness have I drawn you.",
+    "John.3.16": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+    "Luke.12.6-7": "(6) \"Aren't five sparrows sold for two assaria coins? Not one of them is forgotten by God. (7) But the very hairs of your head are all numbered. Therefore don't be afraid. You are of more value than many sparrows.",
+    "Luke.15.20": "\"He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+    "Matt.6.26": "See the birds of the sky, that they don't sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren't you of much more value than they?",
+    "Matt.6.31-33": "(31) \"Therefore don't be anxious, saying, 'What will we eat?', 'What will we drink?' or, 'With what will we be clothed?' (32) For the Gentiles seek after all these things; for your heavenly Father knows that you need all these things. (33) But seek first God's Kingdom, and his righteousness; and all these things will be given to you as well.",
+    "Ps.139.1-4": "(1) Yahweh, you have searched me, and you know me. (2) You know my sitting down and my rising up. You perceive my thoughts from afar. (3) You search out my path and my lying down, and are acquainted with all my ways. (4) For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.",
+    "Ps.139.13-16": "(13) For you formed my inmost being. You knit me together in my mother's womb. (14) I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well. (15) My frame wasn't hidden from you, when I was made in secret, woven together in the depths of the earth. (16) Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.",
+    "Ps.8.4-6": "(4) what is man, that you think of him? What is the son of man, that you care for him? (5) For you have made him a little lower than God, and crowned him with glory and honor. (6) You make him ruler over the works of your hands. You have put all things under his feet:",
+    "Rom.5.8": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "appName": "Bible Study",
+  "tagline": "A Bible study reader",
+  "nav": { "home": "Home", "topics": "Topic list", "about": "About", "back": "Back", "search": "Search" },
+  "home": {
+    "projectTitle": "Living Word",
+    "projectTagline": "the way to the Father's house",
+    "todayTitle": "Today",
+    "topicsCount": "topics",
+    "playVideo": "Play video",
+    "categoriesTitle": "Categories",
+    "basicTitle": "Basic Bible teachings",
+    "basic_systematic": "Systematic study",
+    "basic_practical": "Practical study",
+    "series": "Study series",
+    "topic": "Various Bible topics",
+    "searchPlaceholder": "Search: topic, word",
+    "language": "Language",
+    "downloadOffline": "Download for offline",
+    "downloading": "Downloading…",
+    "offlineReady": "Available offline"
+  },
+  "reader": {
+    "levels": "Level",
+    "base": "Basic",
+    "extended": "Extended",
+    "advanced": "PRO",
+    "application": "Summary",
+    "challenge": "Challenge",
+    "print": "Print / PDF",
+    "backToList": "Topic list",
+    "showVerse": "Show text",
+    "hideVerse": "Hide text",
+    "minutes": "min",
+    "question": "Question",
+    "original": "Original form",
+    "noteTypes": {
+      "syntax": "Syntax", "verb": "Verb", "background": "Background",
+      "textual": "Textual", "term": "Term", "variant": "Variant",
+      "worship": "Worship", "other": "Note"
+    }
+  },
+  "search": { "title": "Search results", "noResults": "No results.", "for": "for" },
+  "category": { "empty": "No studies in this category." },
+  "about": {
+    "title": "About",
+    "body": "A clean reader for ready-made Bible studies. No accounts, no sign-in, no tracking. Works offline after downloading the language module.",
+    "publisher": "Author: Marek Micyk",
+    "privacy": "The app collects no user data."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Have a question or want to talk? Write to us.",
+    "name": "Name",
+    "email": "Your e-mail (for a reply)",
+    "message": "Your message",
+    "human": "I am human",
+    "send": "Send message",
+    "subject": "Contact - Living Word",
+    "hint": "The message will open in your e-mail app.",
+    "who": "Who are we?"
+  },
+  "common": { "loading": "Loading…", "placeholderBible": "The verse text will appear once a translation is connected." }
+}
