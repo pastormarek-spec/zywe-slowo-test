@@ -1,0 +1,65 @@
+{
+  "appName": "Étude biblique",
+  "tagline": "Lecteur d'études bibliques",
+  "nav": { "home": "Accueil", "topics": "Liste des thèmes", "about": "À propos", "back": "Retour", "search": "Rechercher" },
+  "home": {
+    "projectTitle": "Parole Vivante",
+    "projectTagline": "le chemin vers la maison du Père",
+    "todayTitle": "Pour aujourd'hui",
+    "topicsCount": "thèmes",
+    "playVideo": "Lire la vidéo",
+    "categoriesTitle": "Catégories",
+    "basicTitle": "Enseignements bibliques de base",
+    "basic_systematic": "Étude systématique",
+    "basic_practical": "Étude pratique",
+    "series": "Séries d'étude",
+    "topic": "Thèmes bibliques divers",
+    "searchPlaceholder": "Rechercher : thème, mot",
+    "language": "Langue",
+    "downloadOffline": "Télécharger hors ligne",
+    "downloading": "Téléchargement…",
+    "offlineReady": "Disponible hors ligne"
+  },
+  "reader": {
+    "levels": "Niveau",
+    "base": "Base",
+    "extended": "Étendu",
+    "advanced": "PRO",
+    "application": "Résumé",
+    "challenge": "Défi",
+    "print": "Imprimer / PDF",
+    "backToList": "Liste des thèmes",
+    "showVerse": "Afficher le texte",
+    "hideVerse": "Masquer le texte",
+    "minutes": "min",
+    "question": "Question",
+    "original": "Forme originale",
+    "noteTypes": {
+      "syntax": "Syntaxe", "verb": "Verbe", "background": "Contexte",
+      "textual": "Critique textuelle", "term": "Terme", "variant": "Variante",
+      "worship": "Adoration", "other": "Note"
+    }
+  },
+  "search": { "title": "Résultats de recherche", "noResults": "Aucun résultat.", "for": "pour" },
+  "category": { "empty": "Aucune étude dans cette catégorie." },
+  "about": {
+    "title": "À propos",
+    "body": "Un lecteur simple d'études bibliques prêtes à l'emploi. Sans comptes, sans connexion, sans suivi. Fonctionne hors ligne après le téléchargement du module linguistique.",
+    "publisher": "Auteur : Marek Micyk",
+    "privacy": "L'application ne collecte aucune donnée utilisateur."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Vous avez une question ou souhaitez échanger ? Écrivez-nous.",
+    "name": "Nom",
+    "email": "Votre e-mail (pour la réponse)",
+    "message": "Votre message",
+    "human": "Je suis une personne",
+    "send": "Envoyer le message",
+    "subject": "Contact - Parole Vivante",
+    "hint": "Le message s'ouvrira dans votre logiciel de messagerie.",
+    "who": "Qui sommes-nous ?",
+    "whoUrl": "https://www.adventiste.org/"
+  },
+  "common": { "loading": "Chargement…", "placeholderBible": "Le texte du verset apparaîtra une fois une traduction connectée." }
+}
