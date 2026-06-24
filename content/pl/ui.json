@@ -1,0 +1,142 @@
+{
+  "appName": "Studium Biblii",
+  "tagline": "Czytnik studiów biblijnych",
+  "nav": {
+    "home": "Start",
+    "topics": "Lista tematów",
+    "about": "O aplikacji",
+    "back": "Wstecz",
+    "search": "Szukaj"
+  },
+  "home": {
+    "projectTitle": "Żywe Słowo",
+    "projectTagline": "droga do domu Ojca",
+    "todayTitle": "Na dziś",
+    "topicsCount": "tematów",
+    "playVideo": "Odtwórz wideo",
+    "categoriesTitle": "Kategorie",
+    "basicTitle": "Podstawowe nauki Biblii",
+    "basic_systematic": "Studium systematyczne",
+    "basic_practical": "Studium praktyczne",
+    "series": "Serie do studiowania",
+    "topic": "Różne tematy biblijne",
+    "searchPlaceholder": "Szukaj: temat, słowo",
+    "language": "Język",
+    "downloadOffline": "Pobierz do trybu offline",
+    "downloading": "Pobieranie…",
+    "offlineReady": "Dostępne offline"
+  },
+  "reader": {
+    "levels": "Poziom",
+    "base": "Prosto",
+    "extended": "Więcej",
+    "advanced": "Ekspert",
+    "application": "Podsumowanie",
+    "challenge": "Wyzwanie",
+    "print": "PDF",
+    "share": "Udostępnij",
+    "backToList": "Lista tematów",
+    "showVerse": "Pokaż tekst",
+    "hideVerse": "Ukryj tekst",
+    "minutes": "min",
+    "question": "Pytanie",
+    "original": "Forma oryginalna",
+    "noteTypes": {
+      "syntax": "Składnia",
+      "verb": "Czasownik",
+      "background": "Tło",
+      "textual": "Krytyka tekstu",
+      "term": "Termin",
+      "variant": "Wariant",
+      "worship": "Uwielbienie",
+      "other": "Nota"
+    }
+  },
+  "search": {
+    "title": "Wyniki wyszukiwania",
+    "noResults": "Brak wyników.",
+    "for": "dla"
+  },
+  "category": {
+    "empty": "Brak studiów w tej kategorii."
+  },
+  "about": {
+    "title": "O aplikacji",
+    "body": "Zanim zacząłeś szukać Boga, On już wyszedł Ci naprzeciw. Odkryj to w Żywym Słowie - prowadzonym krok po kroku, jako droga do domu Ojca, którą przejdziesz w swoim tempie.\n\nBez kont, bez logowania, bez śledzenia. Działa offline po pobraniu modułu językowego.",
+    "publisher": "Autor: Marek Micyk",
+    "publisherUrl": "https://www.facebook.com/pastormarek",
+    "privacy": "Aplikacja nie zbiera danych o użytkowniku."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Masz pytanie albo chcesz porozmawiać? Napisz do nas.",
+    "name": "Imię",
+    "email": "Twój e-mail (do odpowiedzi)",
+    "message": "Twoja wiadomość",
+    "human": "Jestem człowiekiem",
+    "send": "Wyślij wiadomość",
+    "subject": "Kontakt - Żywe Słowo",
+    "hint": "Wiadomość otworzy się w Twoim programie pocztowym.",
+    "who": "Kim jesteśmy?",
+    "whoUrl": "https://adwent.pl"
+  },
+  "flashcards": {
+    "title": "Wersety na pamięć",
+    "intro": "Naucz się na pamięć 50 najważniejszych tekstów Biblii. Wybierz tematy i ćwicz fiszkami; teksty, których nie pamiętasz, wrócą do powtórki w kolejnych dniach.",
+    "cta": "Ucz się wersetów na pamięć",
+    "ctaDesc": "50 najważniejszych tekstów Biblii - fiszki z powtórkami.",
+    "chooseThemes": "Wybierz tematy do nauki",
+    "all": "Wszystkie / żadne",
+    "selectAtLeastOne": "Zaznacz przynajmniej jeden temat.",
+    "start": "Zacznij naukę",
+    "direction": "Kierunek",
+    "dirR2T": "Odnośnik → tekst",
+    "dirT2R": "Tekst → odnośnik",
+    "flip": "Pokaż odpowiedź",
+    "flipHint": "Dotknij, aby pokazać odpowiedź",
+    "g1": "Nie znam",
+    "g2": "Słabo",
+    "g3": "Dobrze",
+    "g4": "Umiem",
+    "today": "dziś",
+    "dayAbbr": "dz.",
+    "noRepeat": "bez powtórki",
+    "remaining": "Pozostało",
+    "toLearn": "Do nauczenia",
+    "learned": "Nauczone",
+    "mastered": "Opanowane",
+    "sessionDone": "Na dziś gotowe!",
+    "sessionDoneDesc": "Wszystkie zaplanowane na dziś powtórki masz za sobą. Wróć jutro, by utrwalić.",
+    "practiceAll": "Ćwicz wszystkie",
+    "backToThemes": "Wróć do wyboru",
+    "localOnly": "Postęp nauki zapisuje się tylko na tym urządzeniu (w przeglądarce), bez konta. Wyczyszczenie danych przeglądarki go usunie.",
+    "reset": "Wyczyść postęp",
+    "resetConfirm": "Na pewno wyczyścić cały zapisany postęp nauki?",
+    "resetDone": "Postęp wyczyszczony.",
+    "ankiR2T": "AnkiDroid: Skrót → Tekst",
+    "ankiT2R": "AnkiDroid: Tekst → Skrót",
+    "quizlet": "Wolisz Quizlet? Otwórz zestaw",
+    "onlyPl": "Fiszki są na razie dostępne po polsku."
+  },
+  "occasions": {
+    "title": "Teksty na różną okazję",
+    "intro": "Wybierz okazję, a znajdziesz dopasowane fragmenty Pisma. Każdy możesz wysłać bliskiej osobie.",
+    "cta": "Teksty na różną okazję",
+    "ctaDesc": "Wersety na smutek, radość, lęk, chorobę i wiele innych - gotowe do wysłania.",
+    "share": "Udostępnij",
+    "onlyPl": "Dostępne na razie po polsku."
+  },
+  "common": {
+    "loading": "Wczytywanie…",
+    "copied": "Skopiowano do schowka",
+    "placeholderBible": "Tekst wersetu pojawi się po podłączeniu przekładu."
+  },
+  "share": {
+    "title": "Udostępnij",
+    "hint": "Możesz dopisać coś od siebie albo usunąć część tekstu przed wysłaniem.",
+    "includeLink": "Zaproś do używania aplikacji",
+    "cancel": "Anuluj",
+    "copy": "Kopiuj",
+    "send": "Wyślij"
+  }
+}
